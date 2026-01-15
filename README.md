@@ -38,7 +38,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-There was some difficulty in remembering the syntax of javascript.
+* There was some difficulty in remembering the syntax of javascript.
 
 ## License
 
