@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
-A search bar for searching for specific games and details about the games would be useful. 
+*A search bar for searching for specific games and details about the games would be useful. 
 
 ## Video Walkthrough
 
